@@ -1,1 +1,2 @@
-[Eriksmistad Publication in Echocardiography](https://www.eriksmistad.no/publication-list/)
+- [Eriksmistad Publication in Echocardiography](https://www.eriksmistad.no/publication-list/)
+- [Other publication in Echocardiography up to 2021](https://drive.google.com/drive/folders/1YEKHK6Nv3y2c9Gy9E0mHz2M_3OubNB8s)
